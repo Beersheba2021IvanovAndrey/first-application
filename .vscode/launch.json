@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "${workspaceFolder}/index.html"//e:\\VSCodeProjects\\first-appl\\index.html"
+        },
+        {
+            "git.enabled": true,
+        
+            // Path to the git executable
+            "git.path": "c:\\Program Files\\Git\bin\\git.exe"
+        
+            // other settings
+        }
+    ]
+}
